@@ -8,6 +8,8 @@ Additionally, I'm involved in many Computer Science related college associations
 
 This summer I have been accepted to Break Through Tech at Cornell University's Sprinternship program where I will be tackling a "challenge project" in a team. 
 
+Find my LinkedIn profile here: www.linkedin.com/in/nandini-mistry
+
 
 <!--
 **namistryy/namistryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
