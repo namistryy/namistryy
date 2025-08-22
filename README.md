@@ -6,7 +6,7 @@ I primarily use Java, Javascript, Python, and HTML/CSS. I have also recently sta
 
 Additionally, I'm involved in many Computer Science related college associations dedicated to making CS a more inclusive space that aims to educate and support students. On the side, I enjoy tinkering with UI/UX to see how apps can look more visually pleasing. 
 
-Find my LinkedIn profile here: www.linkedin.com/in/nandini-mistry
+Let's connect! -> www.linkedin.com/in/nandini-mistry
 
 
 <!--
